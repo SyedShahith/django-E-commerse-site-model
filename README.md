@@ -1,0 +1,1 @@
+# django-E-commerse-site-model
