@@ -1,0 +1,4 @@
+
+django
+jazzmin
+mysqlclient
